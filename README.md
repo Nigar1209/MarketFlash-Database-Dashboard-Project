@@ -1,6 +1,7 @@
 # MarketFlash-Database-Dashboard-Project
 
 ## Project  Description
+This project was created to provide the general department team at MarketFlash with a structured database and an insightful Tableau dashboard for analyzing marketing campaign performance. The project journey includes data restructuring, database design, and dashboard visualization to help MarketFlash make data-driven marketing decisions.
 
 ## Database Design
 ### ER Diagram
