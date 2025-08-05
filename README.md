@@ -6,7 +6,7 @@
 
 ## SQL Database Design
 
-[Market Flash DB](Database_MarketFlash.db)
+[Market Flash DB](https://github.com/Nigar1209/MarketFlash-Database-Dashboard-Project/blob/main/sql_db/Database_MarketFlash.db))
 
 ## Tableau Workbook
 
