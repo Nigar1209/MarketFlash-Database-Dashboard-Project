@@ -3,10 +3,13 @@
 ## Project  Description
 
 ## Database Design
+  ### ER Diagram
+  <img width="758" height="618" alt="MarketFlash_ERD_2025-06-18 at 17 25 38" src="https://github.com/user-attachments/assets/93d76ecd-dde1-499e-adaa-867980742efa" />
 
+  
 ## SQL Database Design
 
-[Market Flash DB](https://github.com/Nigar1209/MarketFlash-Database-Dashboard-Project/blob/main/sql_db/Database_MarketFlash.db))
+[Market Flash DB](https://github.com/Nigar1209/MarketFlash-Database-Dashboard-Project/blob/main/sql_db/Database_MarketFlash.db)
 
 ## Tableau Workbook
 
