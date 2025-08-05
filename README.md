@@ -22,7 +22,6 @@ This project was created to provide the general department team at MarketFlash w
 
     
 ## Key Findings
-##  MarketFlash Campaign Performance Summary
 
 - **Total Metrics:** 10,967K views, 543K clicks, 108K conversions, 19.95% avg. conversion rate, $5.34M spent across 207 campaigns.
 - **Conversions by Channel:** TikTok led with 116K conversions, followed by Facebook (108K) and YouTube (103K).
@@ -32,4 +31,14 @@ This project was created to provide the general department team at MarketFlash w
 
 ## Project Summary
 
-## Recommendation 
+Through the MarketFlash project, I transformed redundant data into a structured database and interactive dashboard, providing actionable insights into marketing campaign performance. The project involved data normalization, relational database design, and the creation of a comprehensive Tableau dashboard, equipping MarketFlash with the tools for strategic marketing decisions.
+
+## Recommendations
+
+- **Increase Investment in TikTok and Facebook:** These channels delivered the highest conversions (116K and 108K respectively), indicating strong ROI potential.
+- **Target Known Gender Segments:** Since 43.1% of conversions have unknown gender, enhancing user tracking could improve personalization; currently, Male (29%) slightly outperforms Female (27.8%).
+- **Focus on High-Performing Regions:** Allocate more campaigns to the Japan, Europe, and UK—these regions show strong engagement and campaign volume.
+- **Optimize for Seasonal Trends:** Leverage periods like March and June, where conversion rates historically peaked, for campaign launches or budget boosts.
+- **Improve Data Quality:** Reduce the high percentage of unknown gender and potentially underreported metrics to enable more precise targeting.
+
+### Thank You!!!
