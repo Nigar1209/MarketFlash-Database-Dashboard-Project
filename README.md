@@ -22,6 +22,13 @@ This project was created to provide the general department team at MarketFlash w
 
     
 ## Key Findings
+## 📊 MarketFlash Campaign Performance Summary
+
+- **Total Metrics:** 10,967K views, 543K clicks, 108K conversions, 19.95% avg. conversion rate, $5.34M spent across 207 campaigns.
+- **Conversions by Channel:** TikTok led with 116K conversions, followed by Facebook (108K) and YouTube (103K).
+- **Conversion Rate Over Time:** Peaks in Mar and Jul 2023, with a drop observed by Nov 2023.
+- **Conversion Rate by Gender:** Male (29%) slightly ahead of Female (27.8%), with 43.1% data unknown.
+- **Campaigns by Location:** USA ran the most campaigns (34), followed by Europe (31) and UK (28).
 
 ## Project Summary
 
