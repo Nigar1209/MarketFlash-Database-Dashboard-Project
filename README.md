@@ -5,7 +5,9 @@
 ## Database Design
 ### ER Diagram
   <img width="758" height="618" alt="MarketFlash_ERD_2025-06-18 at 17 25 38" src="https://github.com/user-attachments/assets/93d76ecd-dde1-499e-adaa-867980742efa" />
-#### Functional Diagram
+
+  
+### Functional Diagram
  <img width="912" height="631" alt="MarketFlash_Func_ER_2025-06-18 at 17 19 37" src="https://github.com/user-attachments/assets/144159c1-4b33-43a9-82b4-fbbe354f1a08" />
 
   
