@@ -6,6 +6,8 @@
 
 ## SQL Database Design
 
+[Market Flash DB](Database_MarketFlash.db)
+
 ## Tableau Workbook
 
 <img width="1018" height="829" alt="Market_Flash_dashboard" src="https://github.com/user-attachments/assets/1015f145-78fe-4b4d-a776-6022b5d1e532" />
